@@ -1,3 +1,18 @@
-body{
-    color:red;
+header{
+    height: 250px;
+    background-image: url(https://s3-ap-northeast-1.amazonaws.com/thegate/2019/10/25/17/16/40/Various-sushi.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+header h1{
+    color: #ffffff;
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+header h2{
+    color: #ffffff;
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 20px;
 }
